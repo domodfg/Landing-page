@@ -10,7 +10,7 @@ body {
   justify-content: space-around;
   font-weight: 500;
   color: white;
-  background-color: #1f2937;
+  background-color: #6F4E37;
 }
 
 ul {
@@ -39,7 +39,7 @@ h2 {
 .container-one {
   display: flex;
   justify-content: space-evenly;
-  background-color: #1f2937;
+  background-color: #6F4E37;
   color: white;
   padding: 50px 300px 100px 300px;
   gap: 200px;
@@ -55,8 +55,8 @@ h2 {
 }
 
 .signup {
-  background-color: #3882f6;
-  color: #f9faf8;
+  background-color: yellow;
+  color: #1f2937;
   border-radius: 10px;
   border: 0;
   width: 120px;
@@ -167,7 +167,7 @@ h2 {
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: #1f2937;
+  background-color: #6F4E37;
   color: #e5e7e8;
   padding: 20px;
 }
