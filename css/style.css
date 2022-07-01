@@ -92,4 +92,7 @@ h2 {
 
 .coffee-info {
     max-width: 200px;
+    font-size: 18px;
+    color: #1F2937;
+    font-weight: 300;
 }
